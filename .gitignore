@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Data / PDFs / outputs
+*.zip
+data/cvs/
+
+# Models
+models/cv_role_classifier.pkl
+models/tfidf_vectorizer.pkl
+
+# OS / system files
+.DS_Store
+Thumbs.db

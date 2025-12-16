@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+pdfplumber
+PyMuPDF
+pillow
+joblib
+matplotlib
+seaborn
+
+#extra step for spaCy
+python -m spacy download en_core_web_sm
